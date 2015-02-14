@@ -6,3 +6,6 @@ C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion Ecole\Gestion Ecol
 C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.csproj.GenerateResource.Cache
 C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.exe
 C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.pdb
+C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion-Ecole\Gestion Ecole\bin\Debug\Gestion Ecole.exe.config
+C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion-Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.exe
+C:\Users\lymytz\Documents\Visual Studio 2012\Projects\Gestion-Ecole\Gestion Ecole\obj\Debug\Gestion Ecole.pdb
