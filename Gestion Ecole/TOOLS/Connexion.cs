@@ -21,6 +21,7 @@ namespace Gestion_Ecole.TOOLS
             }
             catch (Exception ex)
             {
+                Messages.Exception(ex);
                 return null;
             }
         }
